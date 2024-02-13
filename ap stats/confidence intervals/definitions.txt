@@ -1,0 +1,14 @@
+
+Point estimator:
+A statistic that provides an estimate of a population parameter
+Point estimate:
+Value of that statistic from a sample
+Confidence interval:
+Interval of plausible values for a parameter based on sample data
+Confidence level:
+Overall success rate of the method used to calculate the CI
+Margin of error:
+How much we expect the estimate to vary from the true population value
+Standard error (std) (for pop):
+The standard deviation of a statistic estimated from data
+

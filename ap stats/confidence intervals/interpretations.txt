@@ -1,0 +1,15 @@
+
+CL:
+If we were to take many simple random samples of the same size from the same population, about C% of the resulting CIs would give the [parameter in context]
+[parameter in context] = "true proportion of red beads in the container"
+CI:
+We are C% confident that the interval from 1 to 2 gives the true [parameter in context]
+[parameter in context] = "proportion of red beads in the container"
+Standard error (pop):
+In repeated SRS of the same size, the sample proportion of [context] varies from the population proportion by about [value]
+
+Is there convincing evidence?
+There is convincing evidence that [parameter in context] because all the values in the CI are [less,greater] than [value in context]
+
+Difference in p:
+[same as CI]...gives the true difference in proportion of...[same as CI]

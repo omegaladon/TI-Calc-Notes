@@ -1,0 +1,14 @@
+
+dE = 1/4PIe * dq/x^2
+dE = 1/4PIe * ndx/x^2
+E = n/4PIe * (a)(int)(a+l) dx/x^2
+E = n/4PIe * (-1/x) |a to a+l
+E = n/4PIe * (1/a - 1/(a+l))
+E = Q/4PIel * (l/(a(a+l)))
+E = Q/4PIea(a+l)
+
+where
+a and a + l are the bounds of the rod
+
+if rod is very long distance from origin then a >> l
+E = Q/4PIea^2

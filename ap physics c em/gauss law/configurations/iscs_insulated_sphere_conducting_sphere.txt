@@ -1,0 +1,24 @@
+
+Insulated sphere:
+E = kQ/r^2, r > R
+E = kQr/r^3, r < R
+
+r > R:
+EA = q_enc/e_0
+A = 4PIr^2
+q_enc is Q
+
+r < R:
+p = q / V
+q_enc / (4/3 * PIr^3) = Q / (4/3 * PIR^3)
+q_enc/r^3 = Q/R^3
+q_enc = Qr^3/R^3
+substitute q_enc into EA = q_enc/e_0
+
+E = kQ/r^2, r > R
+E = kQr/r^3, r < R
+
+Conducting sphere:
+E = kQ/r^2, r > R
+E = 0, r < R
+

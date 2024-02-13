@@ -1,0 +1,21 @@
+
+Electric Field of an Electric Dipole @ point
+E = 1/4PIe * qd/((d/2)^2+y^2)^3/2
+where
+d is the distance between the charges
+
+at a large distance from dipole, y >> d
+E = 1/4PIe * qd/y^3
+
+The EF of a point charge falls off as 1/r^2, while the Electric field of a dipole falls off as 1/r^3
+
+Torque
+T = pEsinθ
+where p is the dipole moment (qd)
+T = 0 when parallel to the electric field
+T = max when perpendicular to the electric field
+
+Work on a dipole
+dW = TdO
+dW = pEsin(O)dO
+W = -pEcos(O) = U

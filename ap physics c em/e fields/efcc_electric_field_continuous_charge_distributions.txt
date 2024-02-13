@@ -1,0 +1,8 @@
+
+Electric Field due to Continuous Charge Distributions
+E = k(int)(dq/r^2)
+
+Charge Densities
+linear: n = Q / l, dq = ndl (lambda)
+surface: o = Q / A, dq = odA (sigma)
+volume: p = Q / V, dq = pdV (rho)

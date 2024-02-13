@@ -1,0 +1,12 @@
+
+outside...
+E (int) dA = nl/e_0 (n is lambda)
+E2PIrl = nl/e_0
+E = nl/2PIre_0
+
+inside of a...
+Conductor:
+inside = 0
+Insulator:
+E2PIrl = pPIlr^2/e_0 (p is rho)
+E = pr/2e_0

@@ -1,0 +1,15 @@
+
+e = 1.602x10^-19 C
+larger charges = multiple of e
+
+conductors: charge uniformly distrubted on surface
+insulators: charge uniformly distrubted throughout
+
+induction: process of charging a conductor by bringing it near a charged object and grounding it
+ex, negative rod next to neutral conductor, electrons away from rod, leaving positive charges on other side
+    if grounded, electrons flow to ground, leaving positive charges on conductor
+
+Coulomb's Law: F = k|q1q2|/r^2
+Electric Field: E = kq(rhat)/r^2
+Electric Potential Energy: U = kq1q2/r
+Electric Potential: V = kq/r

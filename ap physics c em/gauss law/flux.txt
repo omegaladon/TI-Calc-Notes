@@ -1,0 +1,7 @@
+
+Electric Flux, o = EAcosO
+- A: perpendicular area through with EF passes
+
+Closed surface, o = (int)(int)E*dA
+Field lines going f/ out to in of closed surface = -
+Field lines going from in to the out of closed surface = +

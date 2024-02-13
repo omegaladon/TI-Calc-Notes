@@ -1,0 +1,32 @@
+
+CI = PE +- MOE
+
+as n up, MOE down (more precise)
+as n up, variability down
+as CL up, MOE up (less precise)
+as MOE up, CI up
+
+conditions for making CI about a proportion:
+random - must be random sample (srs, established polling org, Gallup poll, etc.)
+10% - when sampling w/o replacement, n < 0.10N
+large counts - BOTH np >= 10 & n(1-p) >= 10
+constructing:
+p +- z * standard error
+
+confidence level of x%:
+area under normal curve is 100 - x%
+ex, CL = 92%, z = invnorm(.04,0,1,left)=-1.751
+
+PANIC!
+state parameter of interest
+check if conditions are satisfied
+name the CI (1 sample z interval for p) or (2 sample z interval for p1-p2)
+find CI
+interpret
+
+to find n that will give a C% CI with max MOE,
+MOE >= z * std
+use p = 0.5 to solve
+
+
+

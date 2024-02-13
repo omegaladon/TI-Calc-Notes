@@ -1,0 +1,15 @@
+
+dEy = dEcos(O)
+    = kdq/R^2 * cos(O)
+    = kndl/R^2 * cos(O)
+    = knRdO/R^2 * cos(O)
+    = kncos(O)dO/R
+Ey  = (-PI/2)(int)(PI/2) dEy
+    = (-PI/2)(int)(PI/2) kncos(O)dO/R
+    = kn/R (-PI/2)(int)(PI/2) cos(O)dO
+    = kn/R [sin(PI/2) - sin(-PI/2)]
+    = kn/R [1 - (-1)]
+    = 2kn/R
+
+where
+R = radius

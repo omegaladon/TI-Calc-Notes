@@ -1,0 +1,13 @@
+
+dEx = 1/4PIe * dq/r^2 * cos(O)
+dEx = 1/4PIe * dq/(x^2 + a^2) * x/sqrt(x^2 + a^2)
+dEx = 1/4PIe * xdq/(x^2 + a^2)^3/2
+integrate
+E = Qx/4PIe(x^2 + a^2)^3/2
+
+limit a -> 0 (E) = Q/4PIex^3
+
+where
+a is the radius of the base of the cone
+x is the point of interest to the base of the cone
+r is the hypotenuse of a and x

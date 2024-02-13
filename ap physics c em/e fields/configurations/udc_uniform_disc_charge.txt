@@ -1,0 +1,21 @@
+
+dq = odA
+   = 2oPIrdr
+   
+dEx = xdq/(4PIe(x^2 + r^2)^(3/2))
+    = x(2oPIrdr)/(4PIe(x^2 + r^2)^(3/2))
+Ex = xo/4e * (0)(int)(R) 2rdr/(x^2 + r^2)^(3/2)
+
+u sub, u = x^2 + r^2
+du = 2rdr
+r = 0 -> u = x^2
+r = R -> u = x^2 + R^2
+
+Ex = xo/4e * (x^2 + R^2)(int)(x^2) du/u^(3/2)
+   = xo/4e * (-2u^(-1/2)) | x^2 to x^2 + R^2
+   = o/2e * (1 - x^2/√(x^2 + R^2))
+
+where
+r is distance from center of disk to inner edge of ring
+x is distance from center of disk to point of interest
+R is radius of disk

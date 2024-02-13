@@ -1,0 +1,13 @@
+
+Infinite Plane:
+E = o/2e_0
+
+Spherical:
+E = kQ/r^2, r > R
+E = kQr/R^3, r < R (insulator)
+E = 0, r < R (conductor)
+
+Rod:
+E = n/2PIre_0, r > R
+E = pr/2e_0, r < R (insulator)
+E = 0, r < R (conductor)

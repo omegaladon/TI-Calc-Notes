@@ -1,0 +1,4 @@
+
+2EA = q_enc/e_0
+2EA = oA/e_0 (o is sigma)
+E = o/2e_0
