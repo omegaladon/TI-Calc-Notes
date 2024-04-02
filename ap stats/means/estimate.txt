@@ -1,0 +1,26 @@
+PANIC!
+
+P, parameters
+ex: u = the true mean weight of an oreo cookie
+
+a, assumptions (conditions)
+random
+10%, n < .1N (not in experiment)
+normal,
+  a. CLT (n > 30)
+  b. pop is normal
+  c. graph to assess normality, don't use t if strong skewness or outlies
+
+n, name
+ex: One sample t interval for u
+
+i, interval
+CI = x_bar +- t * s_x / sqrt(n)
+state dof - (x, y) with df = n - 1
+or
+Stat > Tests > 8: TInterval
+write, TInterval gives (x, y) with df = n - 1
+
+c, conclusion
+"We are [CL]% confident the interval from x to y contains the [parameter]"
+ex: "We are 95% confident the interval from 13.5 to 14.5 contains the true mean weight of an oreo cookie"

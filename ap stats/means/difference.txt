@@ -1,0 +1,16 @@
+PANIC!
+
+conditions:
+  random
+  both pass 10%
+  graph both and check outliers / skewness
+
+CI =
+(x1 - x2) +- t * sqrt(s1^2/n1 + s2^2/n2)
+or
+Stat > Test > 0: 2-SampTInt
+* always leave pooled as NO
+"2-SampTInt gives (x, y) with df = ___"
+
+Name: two sample t interval for u1 - u2
+

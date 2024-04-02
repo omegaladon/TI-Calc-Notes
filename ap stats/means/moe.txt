@@ -1,0 +1,15 @@
+CI = x_bar +- t * s_x / sqrt(n)
+t * s_x / sqrt(n) is moe
+
+moe:
+  decreases as n increases
+  increases as CL increases
+  does not account for bias
+
+do not know sample n, use z instead of t
+z * o / sqrt(n) <= moe
+underestimates sample size, negligible for large samples
+
+Given CL, z score is:
+  invnorm(half of 1 - CL)
+  half of 1 - CL

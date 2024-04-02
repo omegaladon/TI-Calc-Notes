@@ -1,0 +1,12 @@
+Two sample t interval for u1 - u2
+  Experiment if using completely random design
+  Sample sizes can be same or different
+  Difference in mean
+  Independent SRS
+
+One sample t interval for u_diff
+  Experiment if using matched pairs design
+  Sample sizes must be same
+  Paired data (ex: before and after, twins, measurements on same subject)
+  Mean Difference
+  Not independent SRS

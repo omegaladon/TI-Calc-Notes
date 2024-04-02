@@ -1,0 +1,4 @@
+dof = n - 1
+
+ex: 95% CI based on SRS, n = 100
+t* = invT(area: 0.025, dof: 99) = -x = x

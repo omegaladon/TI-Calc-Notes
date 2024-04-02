@@ -1,0 +1,21 @@
+Paired = two values of the same variable for each individual or pair of similar individuals
+start by finding the diff beetween
+
+parameter:
+u_diff = true mean different (param1 - param2) [context]
+"true mean different (new - standard) reading test score"
+
+conditions:
+  random
+  10% (n_diff < .1N_diff)
+  normal
+
+name:
+one sample t interval for u_diff 
+OR 
+paired t interval for u_diff
+
+CI =
+x_diff +- t * s_diff / sqrt(n_diff)
+or
+same as estimate
