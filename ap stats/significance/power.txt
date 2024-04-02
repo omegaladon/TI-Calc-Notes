@@ -1,0 +1,17 @@
+Power = probability to find convincing evidence for Ha when Ha is true
+How likely the significance test to avoid a Type II error
+
+Power = P(reject H0 | H1 is true)
+Power = 1 - P(Type II error)
+
+Interpretation =
+If the true mean is really [mean], there is a [power] probabilty that the sample will provide convincing evidence [for Ha].
+
+Power increases when
+- Larger sample size
+... why? because larger n gives more info about p
+- Significance level a is Larger
+... why? because larger a makes it easier to reject H0 when Ha is true
+- Null and alternative hypothesis are further apart
+- True proportion is smaller
+... why? because more difficult to detect smaller differences with Ho and Ha parameter value

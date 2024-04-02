@@ -1,0 +1,9 @@
+Checking conditions
+Check all 4 large counts conditions (for each n and p)
+Check all 2 10% rules (for each n and p)
+Check each are normalcdf
+
+P[combined] = x1 + x2 / n1 + n2
+z = (p1 - p2) - p0 / sqrt(pc(1-pc)(1/n1 + 1/n2))
+
+use PHANTOMS

@@ -1,0 +1,9 @@
+P-value = probability of getting convincing evidence for Ha as stronger than the observed evidence when H0 is true
+
+Interpretation of p-value
+Assuming the [H0 is true in context] tere is a [p-value] probability of getting a [sample data] or [more extreme in the specified direction of Ha].
+Assuming the player does make 80% of his shots, there is a 0.0075 probability of making 32 out of 50 shots or less.
+
+CL = 1 - alpha
+find z(alpha/2) and use it to find the margin of error
+MOE = z(alpha/2) * std

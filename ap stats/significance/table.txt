@@ -1,0 +1,6 @@
+Test of mu = 1200 vs < 1200
+t = -6.73 p = 0.000
+
+1200 is the H0, <1200 is the Ha
+The p-value is 0.000
+Z-score is -6.73

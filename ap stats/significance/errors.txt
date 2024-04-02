@@ -1,0 +1,12 @@
+Type I = Reject H0 when H0 is true
+Type II = Fail to reject H0 when H0 is false
+
+Increasing a...
+Type II error decreases
+Type I error increases
+Power increases
+
+Increasing n...
+Type II error decreases (B)
+Type I error decreases (A)
+Power increases

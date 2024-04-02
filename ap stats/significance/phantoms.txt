@@ -1,0 +1,16 @@
+P = State parameter
+... p = the true proportion of CA residents who stream shows and movies on Netflix
+h = hypotheses
+... H0 =, Ha = etc
+a = assumptions (conditions)
+... check lc, 10%, and random
+n = name
+... 1 sample z test for p or 2 sample z test for p1 - p2
+t = test statistic (z-score)
+... use z-score formula, z = (p-hat - p) / sqrt(p(1-p)/n)
+o = obtain p-value
+... use normalcdf with zscore, -1E99 or 1E99 depending on Ha
+m = make a decision (reject or fail to reject H0)
+... compare p-value to alpha, if p-value < alpha, reject H0
+s = state a conclusion
+... Since p-value > alpha, we fail to reject H0. There is not convincing evidence that there is an advantage to performing last.
