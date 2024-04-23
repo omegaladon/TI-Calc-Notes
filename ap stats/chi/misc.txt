@@ -1,0 +1,17 @@
+Goodness of fit: 1 variable in 1 population
+Homogeneity: 1 variable in 2 or more populations
+Independence: 2 or more variables in 1 population
+
+x^2 distribution:
+only positive values
+right skewed
+as df increases, the distribution approaches normal
+p = area to the right of the x^2 value
+
+minitab:
+Observed = first number
+Expected = second number
+x^2 contribution = third number
+x^2, df, p-value at bottom
+
+computer software reports p-value for two sided test, so divide by 2 for one sided test

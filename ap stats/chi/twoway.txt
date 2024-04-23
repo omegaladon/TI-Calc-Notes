@@ -1,0 +1,22 @@
+Homogeneity:
+compares dist of a SINGLE categorical variable across SEVERAL populations
+
+H is generally:
+H0: no difference in dist of variable across populations
+Ha: there is a difference in dist of variable across populations
+
+EC = (row total * column total) / table total
+df = (rows - 1) * (columns - 1)
+
+conditions:
+Independent & random
+10%: sample size < 10% of population
+normal: all expected counts > 5
+
+calc:
+make matrix: 2nd > x^-1 (matrix) > edit > enter data
+x^2-Test: Stat > Tests > x^2-Test
+x^2-Test gives x^2 = [], p-value = [], with df = [].
+
+interpret p value:
+Assuming [H0 in context] is true, there is a [p-value] probability of getting a x^2 test statistic of [x^2] or greater by chance alone.

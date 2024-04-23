@@ -1,0 +1,27 @@
+Compares observed vs expected frequencies for single variable
+
+H is generally:
+H0: stated distribution is correct
+Ha: stated distribution is not correct
+
+conditions:
+1. random
+2. independent (10%)
+3. all expected counts > 5 (must check all variables in the category)
+
+ec = np_i where p_i is the proportion for category i specified in the null hypothesis
+df = num of vars in category - 1
+
+x^2 = sum of (observed - expected)^2 / expected
+x^2cdf(x^2, df) = p value
+^^ 2nd vars > x^2cdf
+^^ write all parameters to calc command for credit
+
+name: x^2 test for goodness of fit
+
+calc:
+x^2GOF-Test: Stat > Tests > x^2GOF-Test
+x^2GOF-Test gives x^2 = [], p-value = [], with df = [].
+
+interpret p value:
+Assuming that the claimed distribution of [] is correct, there is a [p-value] probability of getting a x^2 statistic of [x^2 value] or greater by chance alone.

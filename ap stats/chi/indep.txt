@@ -1,0 +1,8 @@
+Independence:
+determines if there is convincing evidence of a relatishion between TWO categorical variables in a SINGLE population.
+
+H is generally:
+H0: The two variables are independent / no association
+H1: The two variables are dependent / associated
+
+everything else same as twoway

@@ -1,0 +1,17 @@
+regression analysis table:
+Constant - coef = a
+[context] - coef = b
+[context] - SE Coef = SE_b
+std = S
+
+interpret a (y int):
+We predict a [context y] score of [a] when the [context x] is 0.
+
+interpret B (slope):
+For every 1 unit increase in [context x], we predict a [context y] score increase of [b].
+
+interpret o (std deviation):
+THe mean [context y] varies by an average of [o] from the [context y] predicted by the LSRL using x = [context x].
+
+interpret SE_b (standard error of the slope):
+If we repeated the random sampling many times, the slope of hte samples regression line would vary by an average of [SE_b] from the true population slope for predicting [context y] from [context x].

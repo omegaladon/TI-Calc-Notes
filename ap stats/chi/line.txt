@@ -1,0 +1,26 @@
+pop: u_y = a + Bx (greek)
+sam: y^ = a + bx
+
+dist of b (sample slope)
+center: u_b = B
+spread: o_s = o / o_x sqrt(n)
+shape: normal, look at residuals
+
+conditions: LINEAR
+1. linear, residual plot must show no curved pattern
+2. independent
+3. normal, dotplot of residuals cant show skewness or outliers
+4. equal std, std y = std x, check residuals to ensure equal scatter around y = 0 for all x
+5. random
+
+CI from line:
+CI = b +- t * SE_b
+Stat > Tests> LinRegTInt
+"LinRegTInt gives (a, b) with df = []"
+name: t interval for B
+
+P from line:
+Stat > Tests > LinRegTTest
+"LinRegTTest gives t = [], p-value = [], with df = []."
+
+df = n - 2
