@@ -1,0 +1,30 @@
+PHANTOMS
+
+P: parameter
+we want u1 - u2 where...
+u1&2 = the true mean number of [whatever]
+ex: u1 = the true mean number of IQ score for all high school students who take AP statistics, u2 = do not take APS
+
+h: hypothesis
+
+a: assumptions
+MUST BE INDEPENDENT *STATE
+random
+10%, n < .1N (not in experiment)
+  check for both populations
+normal,
+  a. CLT (n > 30)
+  b. pop is normal
+  c. graph to assess normality, don't use t if strong skewness or outlies
+  check for both populations
+
+n: name of test
+two sample t test for u1-u2
+
+t&o: test statistic
+Stat > Test > 2-SampTtest,
+-- "2-sampTtest gives t = [], p-value = [], with df = []"
+
+m&s: make a statement
+"Since the p-value of [] is less than the significance level of [], we reject the null hypothesis. There is sufficient evidence to support the claim that there is a difference in IQ scores between AP Stats students and non-AP stats students."
+"Since the p-value of [] is greater than the significance level of [], we fail to reject the null hypothesis. There is not sufficient evidence to support the claim that there is a difference in IQ scores between AP Stats students and non-AP stats students."

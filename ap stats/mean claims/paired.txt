@@ -1,0 +1,29 @@
+PHANTOMS
+
+P: parameter
+udiff = the true mean difference ([] - []) in []
+ex: udiff = the true mean difference (placebo - caffeine) in depression score
+
+h: hypothesis
+
+a: assumptions
+random
+10%, n < .1N (not in experiment)
+  check for both populations
+  if experiement, state random assignment
+normal,
+  a. CLT (n > 30)
+  b. pop is normal
+  c. graph to assess normality, don't use t if strong skewness or outlies
+  check for both populations
+
+n: name of test
+one sample t test for u
+
+t&o: test statistic
+Stat > Test > T-Test,
+-- "T-test gives t = [], p-value = [], with df = []"
+
+m&s: make a statement
+"Since the p-value of [] is less than the significance level of [], we reject the null hypothesis..."
+"Since the p-value of [] is greater than the significance level of [], we fail to reject the null hypothesis..."

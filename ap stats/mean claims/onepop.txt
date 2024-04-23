@@ -1,0 +1,30 @@
+PHANTOMS
+
+P: parameter
+u = the true mean number of [whatever]
+ex: u = the true mean # of minutes of music played per hour by this station
+
+h: hypothesis
+H0: what the problem claims
+ex: Station claims to play an average of 50 min of music per hour, so H0: u = 50
+Ha: what you suspect
+ex: You suspect that the station plays less than 50 min of music per hour, so Ha: u < 50
+
+a: assumptions
+random
+10%, n < .1N (not in experiment)
+normal,
+  a. CLT (n > 30)
+  b. pop is normal
+  c. graph to assess normality, don't use t if strong skewness or outlies
+
+n: name of test
+one sample t test for u
+
+t&o: test statistic
+Stat > Test > T-Test,
+-- "T-test gives t = [], p-value = [], with df = []"
+
+m&s: make a statement
+"Since the p-value of [] is less than the significance level of [], we reject the null hypothesis. There is sufficient evidence to support the claim that the station plays less than 50 min of music per hour."
+"Since the p-value of [] is greater than the significance level of [], we fail to reject the null hypothesis. There is not sufficient evidence to support the claim that the station plays less than 50 min of music per hour."

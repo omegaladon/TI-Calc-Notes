@@ -1,0 +1,8 @@
+if two sided,
+use Tinterval for t&o
+
+Stat > Test > Tinterval,
+-- "Tinterval gives ([],[]) with df = []."
+
+conclusion:
+Since [] falls within our % confidence interval, we fail to reject the null hypothesis. etc.
