@@ -1,0 +1,5 @@
+
+p: Assuming the [H0 is true in context] tere is a [p-value] probability of getting a [sample data] or [more extreme in the specified direction of Ha].
+CI: We are [CL]% confident that the true [mean/proportion/slope] of [variable] is between [lower] and [upper].
+power: We have a [power]% chance of correctly determining that [Ho is false] when [Ho is actually false].
+CL: If we were to take many simple random samples of the same size from the same population, about C% of the resulting CIs would give the [parameter in context]

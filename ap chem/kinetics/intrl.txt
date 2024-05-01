@@ -1,0 +1,11 @@
+graphing:
+0 order, [A] vs t = linear
+  [A] = -kt + [A]0
+1st order, ln[A] vs t = linear
+  ln[A] = -kt + ln[A]0
+2nd order, 1/[A] vs t = linear
+  1/[A] = kt + 1/[A]0
+
+half life & irl:
+plug in values for [A]0 and [A] = [A]/2 to find t
+1st order: t = ln2/k = 0.693/k

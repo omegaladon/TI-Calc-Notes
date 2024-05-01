@@ -1,0 +1,9 @@
+rxns occur in series of steps, some not involving elements
+overall series of steps = mechanism
+
+rate limiting step = slowest step in mechanism
+rate law is based on stoich of rls
+
+mechanism validity:
+1. elementary steps sum to overall balanced rxn
+2. rate law reflects stoich of rls

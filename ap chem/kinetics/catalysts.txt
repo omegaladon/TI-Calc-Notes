@@ -1,0 +1,18 @@
+potential energy curves:
+before the hump, energy = E of reactants
+after the hump, energy = E of products
+hump = activation energy (Ea)
+
+top of curve = "activated complex"
+
+catalysts speed up rxn by providing alternate pathway with lower Ea
+catalysts do not change the overall energy of the rxn
+
+enzymes: biological catalysts
+
+arrhenius equation:
+High temp & low Ea = faster rxn
+
+k = Ae^(-Ea/RT)
+- RT = average kinetic energy
+- the larger the Ea/RT, the slower the rxn

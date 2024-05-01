@@ -1,0 +1,14 @@
+Rate = <>[] / <>t
+Rate = k[A]^m
+- m = order of reaction
+- k = rate constant (can't be negative)
+
+[B] and rate increase 4x
+  Rate = k[A]^m
+  4 = [4]^m
+  m = 1, so rxn is first order IN B
+
+Rate of rxn = k[A]^m[B]^n
+  m & n = order of reaction in A and B
+
+Overall order of reaction = m + n

@@ -1,0 +1,3 @@
+
+std: On average, the [x] differs from the true [mean/proportion] by [std] units.
+z: The value of [context] is [z-score] standard deviations above/below the mean.

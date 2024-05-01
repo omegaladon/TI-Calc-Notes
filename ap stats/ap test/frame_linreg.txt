@@ -1,0 +1,6 @@
+
+r: There is a [strong/moderate/weak/negative] linear relationship between [x] and [y].
+r^2: [r^2]% of the variation in [y] can be explained by the linear relationship between [x] and [y].
+b: For every one unit increase in [x], our model predicts that [y] will increase by [b] units.
+a: When [x] is 0, our model predicts that [y] will be [a] units.
+o: The mean [y] varies by an average of [o] from the [y] predicted by the LSRL using x = [x].

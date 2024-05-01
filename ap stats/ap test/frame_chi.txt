@@ -1,0 +1,3 @@
+
+CI: We are [CL]% confident that the true [mean/proportion/slope] of [variable] is between [lower] and [upper].
+power: We have a [power]% chance of correctly determining that [Ho is false] when [Ho is actually false].
