@@ -1,0 +1,5 @@
+K < Q: more products, rxn will shift to left
+K > Q: less products, rxn will shift to right
+
+K is large: products are favored in rxn, not much reactants left
+K is small: reactants are favored in rxn, not much products formed

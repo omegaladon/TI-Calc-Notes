@@ -1,0 +1,30 @@
+single bond: sigma
+double bond: sigma and pi
+triple bond: sigma and 2 pi
+
+hybridization:
+sigma bonds + # lone pairs = hybridization
+
+key:
+e groups, lone pairs, molecular geometry, bond angle
+e geometry = 1st molecular geo
+
+2, 0, linear, 180
+
+3, 0, trigonal planar, 120
+3, 1, bent, <120
+
+4, 0, tetrahedral, 109.5
+4, 1, trigonal pyramidal, <109.5
+4, 2, bent, <<109.5
+
+5, 0, trigonal bipyramidal, 120 & 90
+5, 1, seesaw, <120 & <90
+5, 2, t-shaped, 90
+5, 3, linear, 180
+
+6, 0, octahedral, 90
+6, 1, square pyramidal, <90
+6, 2, square planar, 90
+6, 3, t-shaped, <90
+6, 4, linear, 180

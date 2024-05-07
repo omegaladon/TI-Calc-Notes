@@ -1,0 +1,1 @@
+P(gas) = mole fraction of gax * P(total)

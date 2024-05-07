@@ -1,0 +1,20 @@
+group = family = column
+period = row
+
+ionization energy: energy required to remove an electron from an atom
+electronegativity: ability of an atom to attract shared e (F is highest)
+highest at top right
+
+atomic radius: size of an atom
+highest at bottom left
+
+HUND-RULE
+elec-space-evenly
+lowest-E-(e-)-config-of-atom=max-num-paried-elec-in-degen-orbitals
+degen-orbital=2p[1],2p[2],2p[3]
+
+PAULI-PRINCIPLE
+no-more-than-2-(e-)-in-orbital
+
+AUFBAU-PRINCIPLE
+(e-)-filled-into-orbitals-in-increasing-energy-level

@@ -1,0 +1,21 @@
+ionic: metal/nonmetal
+- high melting point, brittle, conductive
+covalent: nm/nm
+- low melting point, nonconductive
+- polar: unequal sharing of electrons (distance from each other pn table)
+- nonpolar: equal sharing of electrons
+
+substitutional alloy:
+- metal substitute into another metal's lattice
+interstitial alloy:
+- small atoms fill in spaces between larger atoms
+
+formal charge: # valence - # lone electrons - # bonds (double = 2, triple = 3)
+- formal charge of 0 is most stable
+
+ldf: more e = more polarizable = stronger ldf
+dd: polar molecules
+h: O-H, N-H, F-H
+- h contains dd and ldf
+
+"like dissolves like"

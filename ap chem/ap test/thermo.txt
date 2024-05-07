@@ -1,0 +1,24 @@
+forming bond releases energy
+breaking bond requires energy
+
+-Q (warmer object) = +Q (cooler object)
+
+<>H = Heat of reaction
+- negative = exothermic, positive = endothermic
+- <>H = <>H products - <>H reactants
+- <>H = sum(H bonds broken) - sum(H bonds formed)
+- <>H = <>Hf products - <>Hf reactants
+Hf = enthalpy of formation, standard state = 0
+
+<>s = entropy, disorder in system
+- negative = less disorder, positive = more disorder
+- <>s = <>s products - <>s reactants
+
+<>G = Gibbs free energy, spontaneity
+- negative = spontaneous, positive = nonspontaneous
+- <>G = <>H - T<>S
+
+Hess's Law:
+- when flip reaction, flip sign of <>H
+- when multiply reaction, multiply <>H by that number
+- add reactions together, add <>H together

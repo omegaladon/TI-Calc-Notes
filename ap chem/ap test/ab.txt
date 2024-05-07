@@ -1,0 +1,20 @@
+strong acids:
+HCl, HBr, HI, HNO3, H2SO4, HClO4
+conjugate base of strong acid = weak
+
+weak: equilibirum
+strong: no equilibrium
+
+compare ka and kb, which is larger?
+ka > kb: acidic
+ka < kb: basic
+
+equivalence point: moles acid = moles base
+endpoint: indicator changes color
+half equivalence point: ph = pKa
+
+pKa indicator is when the color changes
+
+buffer: resists ph change
+acid reacts with conjugate base, base reacts with conjugate acid
+pH = pKa + log([A-]/[HA])

@@ -1,0 +1,11 @@
+a/b: transfer of H+ ion
+redox: oxidation and reduction
+- oxidation states:
+  - O in compound, -2 (O in peroxide is -1)
+  - H = +1 when bonded to nonmetals, -1 when bonded to metals
+  - in compound, alkali metals = +1, alkaline earth metals = +2
+2 replacement: 2 elements in compound switch places
+1 replacement: element replaces another in compound
+combustion: reaction with O2 to produce CO2 and H2O
+decomposition: compound breaks down into 2 or more simpler substances
+synthesis: 2 or more substances combine to form a new compound
